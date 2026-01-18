@@ -25,3 +25,6 @@ This Inventory Management System was developed using Core Python and follows a m
 The project allows efficient management of product details such as adding, viewing,updating,and deleting records.
 It demonstrates the practical application of basic Python concepts including dictionaries,functions,loops,and conditional statements.
 Overall,this project strengthened understanding of Python fundamentals and logical problem-solving skills.
+
+The below link is the presentation of my project.
+https://drive.google.com/file/d/1tXTWF3_PpkD8rSsSzM2WyOZKKfY_nLNZ/view?usp=drivesdk
